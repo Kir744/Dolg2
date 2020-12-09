@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\Кирилл\source\repos\2Lab\2Lab\main.c(14,13): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[256]"
+C:\Users\Кирилл\source\repos\2Lab\2Lab\main.c(14,13): warning C4024: fgets: различные типы для формального и фактического параметров 1
+C:\Users\Кирилл\source\repos\2Lab\2Lab\main.c(21,31): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[256]"
+C:\Users\Кирилл\source\repos\2Lab\2Lab\main.c(21,31): warning C4024: fgets: различные типы для формального и фактического параметров 1
+C:\Users\Кирилл\source\repos\2Lab\2Lab\main.c(51,22): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Кирилл\source\repos\2Lab\2Lab\main.c(64,7): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Кирилл\source\repos\2Lab\2Lab\main.c(79,15): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[256]"
+C:\Users\Кирилл\source\repos\2Lab\2Lab\main.c(79,15): warning C4024: fgets: различные типы для формального и фактического параметров 1
+C:\Users\Кирилл\source\repos\2Lab\2Lab\main.c(86,33): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[256]"
+C:\Users\Кирилл\source\repos\2Lab\2Lab\main.c(86,33): warning C4024: fgets: различные типы для формального и фактического параметров 1
+  2Lab.vcxproj -> C:\Users\Кирилл\source\repos\2Lab\Debug\2Lab.exe
